@@ -10,7 +10,8 @@ ___
 ___ 
  
 #### Purpose of this project
-To learn/understand SQL by creating a version of the Northwinds database.
+To learn/understand SQL by creating a version of the Northwinds database. 
+DatabaseSchema.pdf contains the schema for my version of the database.
 
 
 [back to top](#legobatmanfan-version-of-the-northwinds-database)
