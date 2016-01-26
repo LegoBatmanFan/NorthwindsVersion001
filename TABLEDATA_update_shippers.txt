@@ -1,0 +1,4 @@
+ShipperID	ShipperAddress	ShipperCity	ShipperPostalCode	ShipperCountry
+1	919 Atlantic Ave	Brooklyn	11216	United States
+2	336 Airport Blvd	Long Island City	11101	United States
+3	828 Gotham Blvd	New York City	10019	United States

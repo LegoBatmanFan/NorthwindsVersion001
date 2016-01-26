@@ -1,0 +1,11 @@
+EmployeeID	LastName	FirstName	Photo	Notes	DateOBirth	EmployeeAddress	EmployeeCity	EmployeePostalCode	EmployeeCountry	EmployeePhone
+11	Karev	Alex	EmpID11.pic 	random employee	7/22/1970	507 - 20th Ave. E. Apt. 2A	Seattle	98122	USA	(206) 555-9857
+12	Bailey	Miranda	EmpID12.pic 	random employee	8/27/1969	908 W. Capital Way	Tacoma	98401	USA	(206) 555-9482
+13	Cobblepot	Oswald	EmpID13.pic 	random employee	5/20/1960	722 Moss Bay Blvd.	Kirkland	98033	USA	(206) 555-3412
+14	Kerr	Joe	EmpID14.pic 	random employee	11/9/1972	4110 Old Redmond Rd.	Redmond	98052	USA	(206) 555-8122
+15	Yang	Christina	EmpID15.pic 	random employee	7/20/1971	14 Garrett Hill	London	SW1 8JR	UK	(71) 555-4848
+16	Parker	Peter	EmpID16.pic 	random employee	11/9/1972	Coventry House Miner Rd.	London	EC2 7JR	UK	(71) 555-7773
+17	Wayne	Bruce	EmpID17.pic 	random employee	10/26/1954	Edgeham Hollow Winchester Way	London	RG1 9SP	 UK	(71) 555-5598
+18	Avery	Jackson	EmpID18.pic 	random employee	8/5/1981	4726 - 11th Ave. N.E.	Seattle	98105	USA	(206) 555-1189
+19	Kyle	Selina	EmpID19.pic 	random employee	8/31/1975	7 Houndstooth Rd.	London	WG2 7LT	 UK	(71) 555-4444
+20	Grey	Meredith	EmpID20.pic 	random employee	11/10/1969	507 - 20th Ave. E. Apt. 2A	Seattle	98122	USA	(206) 555-9857

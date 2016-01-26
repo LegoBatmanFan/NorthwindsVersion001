@@ -1,0 +1,11 @@
+EmployeeID	EmployeeAddress	EmployeeCity	EmployeePostalCode	EmployeeCountry	EmployeePhone
+1	858 Queens Blvd	New York City	10001	United States	(718) 555-1122
+2	7874  Peter Parker Way	New York City	10002	United States	(203) 555-2233
+3	101 Jokers Wild Drive	New York City	10003	United States	(215) 555-3344
+4	56 Cobblepot Street	New York City	10004	United States	(516) 555-4455
+5	200 Wayne Manor Street	New York City	10005	United States	(718) 555-5566
+6	1920 Brooklyn Ave	New York City	10006	United States	(609) 555-6677
+7	345 Two Face Blvd	New York City	10007	United States	(908) 555-7788
+8	567 Arkham Street	New York City	10009	United States	(516) 555-8899
+9	78 Skywalker Blvd	New York City	10010	United States	(203) 555-1234
+10	444 Gotham Blvd	New York City	10011	United States	(631) 555-2345
